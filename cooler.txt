@@ -1,2 +1,4 @@
 This is a new box
 It cools well
+Hello world
+We are stashing this changes here
